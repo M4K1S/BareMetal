@@ -1,8 +1,19 @@
-/*
- * uart.c
- *
- *  Created on: Jul 29, 2026
- *      Author: maximkisselev
- */
+#include <stm32f4xx.h>
+
+void UART_Init() {
+
+}
+
+void UART_SendChar(char c) {
+
+}
+
+void UART_SendString(const char *s) {
+
+}
+
+char UART_ReceiveChar() {
+
+}
 
 
