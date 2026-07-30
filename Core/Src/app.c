@@ -1,6 +1,7 @@
 #include "app.h"
 #include <stdint.h>
 #include "gpio.h"
+#include "uart.h"
 #include "stm32f4xx_hal.h"
 
 // Define HIGH and LOW for GPIO library
